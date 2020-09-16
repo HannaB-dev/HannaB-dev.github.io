@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e5afe4557044f0db15a76abe5cb389f",
+    "revision": "c4a90c45cb460bd2ae6089ca42bf62c7",
     "url": "/HannaB-dev.github.io/index.html"
   },
   {
-    "revision": "3eeecb244c3e579a4415",
+    "revision": "526615c1c5d9880dbaf3",
     "url": "/HannaB-dev.github.io/static/css/main.02ce36a1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HannaB-dev.github.io/static/js/2.6f86c3e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3eeecb244c3e579a4415",
-    "url": "/HannaB-dev.github.io/static/js/main.345892ef.chunk.js"
+    "revision": "526615c1c5d9880dbaf3",
+    "url": "/HannaB-dev.github.io/static/js/main.bda322fe.chunk.js"
   },
   {
     "revision": "7b51bcaa2146c2b6a126",

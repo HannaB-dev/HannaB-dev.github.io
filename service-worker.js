@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HannaB-dev.github.io/precache-manifest.a0dc498ab9c4e30fe146620174bb8590.js"
+  "/HannaB-dev.github.io/precache-manifest.3ddc181e1368dbd7150209042ce2af88.js"
 );
 
 self.addEventListener('message', (event) => {
