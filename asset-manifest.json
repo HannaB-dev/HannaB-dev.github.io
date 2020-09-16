@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HannaB-dev.github.io/static/css/main.02ce36a1.chunk.css",
+    "main.js": "/HannaB-dev.github.io/static/js/main.345892ef.chunk.js",
+    "main.js.map": "/HannaB-dev.github.io/static/js/main.345892ef.chunk.js.map",
+    "runtime-main.js": "/HannaB-dev.github.io/static/js/runtime-main.c2d2908d.js",
+    "runtime-main.js.map": "/HannaB-dev.github.io/static/js/runtime-main.c2d2908d.js.map",
+    "static/js/2.6f86c3e8.chunk.js": "/HannaB-dev.github.io/static/js/2.6f86c3e8.chunk.js",
+    "static/js/2.6f86c3e8.chunk.js.map": "/HannaB-dev.github.io/static/js/2.6f86c3e8.chunk.js.map",
+    "index.html": "/HannaB-dev.github.io/index.html",
+    "precache-manifest.a0dc498ab9c4e30fe146620174bb8590.js": "/HannaB-dev.github.io/precache-manifest.a0dc498ab9c4e30fe146620174bb8590.js",
+    "service-worker.js": "/HannaB-dev.github.io/service-worker.js",
+    "static/css/main.02ce36a1.chunk.css.map": "/HannaB-dev.github.io/static/css/main.02ce36a1.chunk.css.map",
+    "static/js/2.6f86c3e8.chunk.js.LICENSE.txt": "/HannaB-dev.github.io/static/js/2.6f86c3e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d2908d.js",
+    "static/js/2.6f86c3e8.chunk.js",
+    "static/css/main.02ce36a1.chunk.css",
+    "static/js/main.345892ef.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,SACI,iBAAkB,CAClB,SAAU,CACV,QAAS,CACT,UACJ,CAEA,OACI,eAAgB,CAChB,cAAe,CACf,eACJ","file":"main.02ce36a1.chunk.css","sourcesContent":[".loading {\n    position: relative;\n    left: 20px;\n    top: 40px;\n    color: aqua;\n}\n\n.title {\n    margin-top: 10px;\n    font-size: 40px;\n    font-weight: 900;\n}"]}
